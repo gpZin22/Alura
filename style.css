@@ -6,3 +6,8 @@ body {
     background-color: var(--cor-de-fundo);
     color: var(--preto-principal);
     }
+    
+    * {
+        margin: 30;
+        padding: 15;
+        }
